@@ -3,4 +3,9 @@
  address : banglore
  qf : btech
  salary : 20 lpa 
+ phn : 205 age:25 
+ name : thomas
+ address : banglore
+ qf : btech
+ salary : 20 lpa 
  phn : 205
